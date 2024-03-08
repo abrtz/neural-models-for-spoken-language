@@ -1,4 +1,4 @@
-# Neural Models for Spoken Language
+# Neural Models of Spoken Language
 
 This repository contains the code for the final assignment of the course Neural Models of Spoken Language. \
 The code aims to compare the phoneme classification from hidden-state layers from two wav2vec 2.0 models pre-trained on different languages: Spanish and Dutch.
